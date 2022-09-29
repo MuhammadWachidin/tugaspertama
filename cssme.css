@@ -1,0 +1,33 @@
+table,tr,td{
+            background-color: rgb(252, 217, 217) ;
+            font-family: 'Times New Roman';
+            color: rgb(230, 9, 9);
+            border: 5px solid rgb(230, 9, 9);
+            padding: 10px;
+            border-collapse: collapse;
+            font-size: 100%;
+            }
+    .judul{
+        font-size: 30px;
+        position: static;
+    }
+    .h{
+        border: 20px groove rgb(230, 9, 9);
+        padding: 40px;
+        }
+    .posisi{
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        margin-top: auto;
+        left: 0;
+        right: 0;
+        top: 100px;
+        bottom: 0;
+        }
+    body{
+        background-color:rgb(117, 97, 97);
+        background-repeat: no-repeat;
+        background-size: 1400px auto;
+        }
